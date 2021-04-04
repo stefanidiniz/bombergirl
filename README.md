@@ -8,18 +8,18 @@ Bombergirl é um jogo 2D de ação, plataforma puzzle com elementos de ação e 
 uma jovem que precisa enfrentar desafios para chegar ao seu sonho de se tornar atriz. Escalete enfrentará desafios de forma estratégica para que ela consiga conquistar seus objetivos e se livrar de complicados labirintos que a separam de seus sonhos.
 
 🛠 Principais Mecânicas
-Mini Tasks
+Bombas
 Interação com NPC
 Combate contra inimigos
 Progressão de nível atrelado ao sonho da personagem
 
 🔗 Links
-Jogar no Browser: 
-Video Gameplay: 
+Jogar no Browser: [Link] (https://sdgamedeveloper.itch.io/bombergirl)
+Video Gameplay: [Link] ()
 ⚙ Tecnologias
-
+C# com a engine Unity
 
 💪🏿 Time
-Stéfani Diniz (Dev/Art) - Linkedin
-Lannara Silva (Business) - LinkedIn
-Kamila Almeida (Business) - LinkedIn
+Stéfani Diniz (Dev/Art) - [LinkedIn] (https://www.linkedin.com/in/stéfani-diniz/)
+Lannara Silva (Business) - [LinkedIn] (https://www.linkedin.com/in/lannara-silva/)
+Kamila Almeida (Business) - [LinkedIn] (https://www.linkedin.com/in/kamila-almeida-79023b169)
