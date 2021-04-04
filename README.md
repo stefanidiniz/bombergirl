@@ -14,12 +14,12 @@ Combate contra inimigos
 Progressão de nível atrelado ao sonho da personagem
 
 🔗 Links
-Jogar no Browser: [Link] (https://sdgamedeveloper.itch.io/bombergirl)
-Video Gameplay: [Link] ()
+Jogar no Browser: https://sdgamedeveloper.itch.io/bombergirl
+Video Gameplay: 
 ⚙ Tecnologias
 C# com a engine Unity
 
 💪🏿 Time
-Stéfani Diniz (Dev/Art) - [LinkedIn] (https://www.linkedin.com/in/stéfani-diniz/)
-Lannara Silva (Business) - [LinkedIn] (https://www.linkedin.com/in/lannara-silva/)
-Kamila Almeida (Business) - [LinkedIn] (https://www.linkedin.com/in/kamila-almeida-79023b169)
+Stéfani Diniz (Dev/Art) - https://www.linkedin.com/in/stéfani-diniz/
+Lannara Silva (Business) - https://www.linkedin.com/in/lannara-silva/
+Kamila Almeida (Business) - https://www.linkedin.com/in/kamila-almeida-79023b169
